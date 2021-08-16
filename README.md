@@ -1,6 +1,9 @@
 # Amazon_Vine_Analysis
-### In this analysis we are analyzing the reviews submitted to Amazon on 'FURNITURE' purchases. 
-#### - perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. <i>I picked 'FURNITURE" as it is a category which is used by a wide-range of customers from all walks of life. </i> 
+### The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.  
+
+#### In this project we are analyzing the reviews submitted to Amazon on 'FURNITURE' purchases. I will perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. 
+
+<i>I picked 'FURNITURE" as it is a category which is used by a wide-range of customers from all walks of life. </i> 
 
 #### Dataset used is :https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Furniture_v1_00.tsv.gz 
 
